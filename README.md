@@ -4,7 +4,7 @@ A modern Todo application built with **React** and **TypeScript**. The app allow
 
 ## Live Demo
 
-🔗 [Demo](https://palfinger2002.github.io/react-todo-app/)
+🔗 [Demo](https://Palfinger2002.github.io/react-todo-app/)
 
 ## Repository
 
